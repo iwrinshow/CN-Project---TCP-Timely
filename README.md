@@ -1,7 +1,7 @@
 # TCP-TIMELY Implementation in ns3
 
 ### Guided by:
-Mohit P Thiallani
+Mohit P Tahiliani
 
 ### Members:
 Iwrin Show 16CO155
